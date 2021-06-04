@@ -1,0 +1,2 @@
+rootProject.name = "MapWithMarkersApp"
+include ':app'
